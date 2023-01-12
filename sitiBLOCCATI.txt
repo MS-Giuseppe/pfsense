@@ -7,5 +7,4 @@ www.gazzetta.it
 libero.it
 www.libero.it
 https://www.libero.it
-https://libero.it
-facebook.com
+0.0.0.0 wizhumpgyros.com
