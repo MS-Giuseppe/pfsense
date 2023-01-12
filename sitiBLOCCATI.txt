@@ -1,7 +1,7 @@
-0.0.0.0 gazetta.it
-0.0.0.0 www.gazetta.it
-gazetta.it
-www.gazetta.it
+0.0.0.0 gazzetta.it
+0.0.0.0 www.gazzetta.it
+gazzetta.it
+www.gazzetta.it
 0.0.0.0 libero.it
 0.0.0.0 www.libero.it
 libero.it
