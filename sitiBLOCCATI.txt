@@ -6,4 +6,6 @@ www.gazzetta.it
 0.0.0.0 www.libero.it
 libero.it
 www.libero.it
+https://www.libero.it
+https://libero.it
 facebook.com
