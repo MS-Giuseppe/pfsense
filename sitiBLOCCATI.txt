@@ -1,10 +1,2 @@
-0.0.0.0 gazzetta.it
-0.0.0.0 www.gazzetta.it
 gazzetta.it
-www.gazzetta.it
-0.0.0.0 libero.it
-0.0.0.0 www.libero.it
 libero.it
-www.libero.it
-https://www.libero.it
-0.0.0.0 wizhumpgyros.com
