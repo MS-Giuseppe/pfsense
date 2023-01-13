@@ -1,4 +1,4 @@
 gazzetta.it
 libero.it
-www.libero.it
+.libero.it
 facebook.com
